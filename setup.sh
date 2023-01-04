@@ -4,4 +4,4 @@ cp ~/.dotfiles/.zshrc ~
 
 cp -r ~/.dotfiles/.oh-my-zsh ~
 
-tar xvfz oh-my.tgz ~
+cd;tar xvfz .dotfiles/oh-my.tgz
